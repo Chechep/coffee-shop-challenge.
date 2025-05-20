@@ -1,5 +1,3 @@
-# coffee.py
-
 class Coffee:
     all_coffees = []
 

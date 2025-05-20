@@ -1,5 +1,3 @@
-# order.py
-
 class Order:
     all_orders = []
 

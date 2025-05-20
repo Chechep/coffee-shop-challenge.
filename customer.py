@@ -1,5 +1,3 @@
-# customer.py
-
 class Customer:
     all_customers = []
 
