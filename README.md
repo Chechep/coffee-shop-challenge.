@@ -32,3 +32,8 @@ You can run the tests using the Python `unittest` module:
 
 ```bash
 python -m unittest discover tests
+
+git clone git@github.com:Chechep/coffee-shop-challenge..git
+cd coffee-shop-challenge
+pipenv install
+pipenv shell
